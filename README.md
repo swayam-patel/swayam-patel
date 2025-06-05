@@ -1,7 +1,7 @@
 # Swayam Patel 👨‍💻
 iOS Developer crafting intuitive and efficient mobile experiences.
 
-- 💻 **Skills**: Swift, Java, Python, React Native
+- 💻 **Skills**: Swift, Java, Python, React Native, HTML, CSS, Javascript, Node.js, C++
 - 🚀 **Focus**: This profile serves as a codebase for key iOS development concepts, reusable components, and ongoing projects in mobile and web development.
 - 📧 **Contact**: swayamp2005@gmail.com
 - 🚧 **Building**: Expanding expertise in AI, Machine Learning, and Data Analytics.
